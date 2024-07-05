@@ -4,7 +4,7 @@ Ce projet analyse les données des clients d'une compagnie d'assurance automobil
 
 ## Téléchargement du fichier Power BI et CSV
 
-Le fichier Power BI eT CSV est trop volumineux pour être hébergé directement sur GitHub. Vous pouvez le télécharger depuis le lien suivant :
+Le fichier Power BI eT CSV sont trop volumineux pour être hébergé directement sur GitHub. Vous pouvez le télécharger depuis le lien suivant :
 
 [Télécharger le fichier Power BI et Csv ] https://drive.google.com/file/d/1D0KxkCYCUvG42_PUWchcrtGp4Bz8J_A2/view?usp=drive_link
 
